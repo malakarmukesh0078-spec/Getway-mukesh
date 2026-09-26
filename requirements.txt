@@ -1,4 +1,5 @@
-flask
+Flask>=3.0.0
+beautifulsoup4>=4.12.0
 python-telegram-bot[job-queue]>=20.0
 aiohttp
 requests>=2.25.0
